@@ -1,4 +1,4 @@
-package ru.books.dao;
+package ru.books.dao.interfaces;
 
 import ru.books.entities.Author;
 import ru.books.entities.Book;
