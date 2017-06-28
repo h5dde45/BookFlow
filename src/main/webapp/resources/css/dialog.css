@@ -75,7 +75,7 @@ select,
     height: 6px;
     overflow: hidden;
     cursor: pointer;
-    background: url("#{resource['images:select.png']}")  0 0 no-repeat;
+    /*background: url("#{resource['images:select.png']}")  0 0 no-repeat;*/
 }
 .selectBox-dropdown-menu {
     position: absolute;
